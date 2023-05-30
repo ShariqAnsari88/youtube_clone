@@ -65,7 +65,7 @@ const Header = () => {
                         className="h-full md:hidden"
                         src={ytLogoMobile}
                         alt="Youtube"
-                    /> */}
+                        /> */}
                 </Link>
             </div>
             <div className="group flex items-center">
